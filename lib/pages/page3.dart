@@ -8,9 +8,9 @@ class Page3 extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Icon(
-            Icons.favorite,  // Usamos el icono de corazón
+            Icons.favorite,  
             color: Colors.green,  
-            size: 40,  // Puedes ajustar el tamaño del icono
+            size: 40,  
           ),
           Text(
             'Probando un nuevo estilo de letra llamado PlaypenSans',
