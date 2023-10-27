@@ -42,15 +42,4 @@ children: <Widget> [
   SizedBox(height: 20, width: 80,),
   FloatingActionButton(
 
-    child: Text('Light', ),
-    onPressed: () => theme.setTheme(ThemeData.light()),
-  ),
-  SizedBox(height: 20, width: 80,),
-   FloatingActionButton(
-    child: Text('dark'),
-    onPressed: ()  => theme.setTheme(ThemeData.dark()),
-  ),
-],
-    );
-  }
-}
+    
