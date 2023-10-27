@@ -41,18 +41,7 @@ class Inicio extends StatelessWidget{
              ),
            ),
          ),
-         SizedBox(height: 20,),
-         Padding(
-           padding: const EdgeInsets.only(left: 50, right: 50),
-           child: TextField(
-             obscureText: true,
-             decoration: InputDecoration(
-               border: OutlineInputBorder(),
-               labelText: 'Password',
-               
-             ),
-           ),
-         ),
+     
          SizedBox(height: 20,),
          Padding(
            padding: const EdgeInsets.only(left: 50, right: 50),
